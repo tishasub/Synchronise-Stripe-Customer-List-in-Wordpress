@@ -3,7 +3,6 @@
  * Plugin Name: WordPress Stripe User Integration
  * Description: Fetches Stripe customer information and updates WordPress user meta. Automatically syncs new WordPress users with Stripe.
  * Version: 1.1
- * Author: Launch Titans Team
  */
 
 if (!defined('ABSPATH')) {
