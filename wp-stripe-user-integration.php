@@ -14,7 +14,7 @@ if (!defined('ABSPATH')) {
 require_once plugin_dir_path(__FILE__) . 'vendor/autoload.php';
 
 // Set your Stripe API key
-\Stripe\Stripe::setApiKey('sk_live_Hlz0b337Odul23jA5CUukQmc');
+\Stripe\Stripe::setApiKey('you_api_key_here');
 
 
 // Function to fetch Stripe customer information
